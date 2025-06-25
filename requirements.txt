@@ -1,0 +1,2 @@
+datasets==3.5.0
+beautifulsoup4==4.13.4
